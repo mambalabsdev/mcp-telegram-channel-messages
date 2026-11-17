@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-telegram-channel-messages": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-telegram-channel-messages"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
