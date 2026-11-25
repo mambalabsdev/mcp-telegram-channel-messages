@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-telegram-channel-messages",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Telegram Channel Messages: posts from public Telegram channels with views and reactions.",
   "type": "module",
   "bin": {
