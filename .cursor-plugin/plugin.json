@@ -1,7 +1,7 @@
 {
   "name": "mcp-telegram-channel-messages",
   "displayName": "Telegram Channel Messages",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "MCP server for Telegram Channel Messages: posts from public Telegram channels with views and reactions.",
   "author": {
     "name": "Mamba Labs",
